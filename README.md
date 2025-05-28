@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Eleanya Gift Onuma
+# 👋 Hi there, I'm Onuma Eleanya Gift
 
 Welcome to my GitHub! I'm a passionate Software Engineer from Lagos, Nigeria 🇳🇬, driven to build impactful user interfaces and grow through real-world challenges. My goal is to use technology to create meaningful digital experiences while constantly improving my skills through consistent learning and hands-on development.
 
