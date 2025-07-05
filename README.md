@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Onuma Eleanya Gift 👋</h1>
 
 <p align="center">
-  <strong>Welcome to my GitHub! I'm a passionate Software Engineer from Lagos, Nigeria 🇳🇬, driven to build impactful user interfaces and grow through real-world challenges.</strong> —
+  <strong>Welcome to my GitHub! I'm a passionate Software Engineer from Lagos, Nigeria 🇳🇬, driven to build impactful user interfaces and grow through real-world challenges.</strong>
 </p>
 
 <hr/>
