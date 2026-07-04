@@ -22,6 +22,7 @@ A responsive portfolio website built for a project management firm to showcase p
 
 ### Dominion City Alapere
 🔗 Repository: [https://github.com/your-username/dominion-city-alapere](https://github.com/dominioncityalapere/dcalapere_webapp)
+
 🌐 Live Demo: [https://dominioncity.vercel.app](https://dcalapere-webapp-kfjb.vercel.app/)
 
 A fullstack church platform built with React, TypeScript, Python, and Flask. Features include sermon streaming, daily devotionals, events, and text-to-speech for the devotional.
