@@ -10,8 +10,8 @@ My journey into tech started when I wanted to build my own website for a Faceboo
 | ------------- | --------------------------------------------------------------- |
 | **Frontend**  | JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS |
 | **Backend**   | Node.js, Express, Python, Flask                                 |
-| **Databases** | MongoDB, PostgreSQL, Supabase                                   |
-| **Tools**     | Git, GitHub, REST APIs, Postman, Vite, Webpack, Figma                    |
+| **Databases** | SQL, Supabase                                                   |
+| **Tools**     | Git, GitHub, REST APIs, Postman, Vite, Webpack, Figma           |
 
 ## Featured Projects
 
