@@ -1,4 +1,4 @@
-# Hi, I'm Onuma Eleanya Gift
+# Hi, I'm Eleanya Gift Onuma
 
 Software Engineer passionate about building web applications that solve real problems.
 
